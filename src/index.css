@@ -1,0 +1,12 @@
+/* @import "tailwindcss"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin:0;
+    padding: 0;
+    background-color: #141414;
+    color: white;
+    overflow-x: hidden;
+}
